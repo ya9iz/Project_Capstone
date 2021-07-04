@@ -14,7 +14,7 @@ This project aims to process the Starbucks data set in order to provide improvem
 - **data/**: Folder containing the databases that are imported in the project.
 
 ## Main Results:
-We have got a Logistic Regression Model capable to classify user-offer pairs in completed or non-completed offers.
+Logistic Regression Model capable to classify user-offer pairs in completed or non-completed offers.
 
 The main findings are explained in more details in the following article.
 
