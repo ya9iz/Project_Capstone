@@ -1,4 +1,4 @@
-# Project 4: Starbucks Project.
+# Project_Capstone.
 This project aims to process the Starbucks data set in order to provide improvements to the customers offerings.
 
 ## Libraries:
