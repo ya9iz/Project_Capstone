@@ -58,7 +58,7 @@ The data is contained in three files:<br>
   * value - (dict of strings) - either an offer id or transaction amount depending on the record<br>
   
 ## Results
-Based on the analysis above, there is a 13% difference between male and female who completed the offer of received offer and the females is higher than males. In addition, the favorite offer type for female (43.34%) and male (42.58%) is BOGO then Discount. So, I recommend Starbucks to provide offers for female due to the females’ income mean are 71306 and more than males which are 61194. Even though males purchaser are more than females and the Proportion of transaction for males (87.81%) is higher than females (77.5%). Finally, I think may this decision will change if we have completed dataset and without have missing values.<br>
+Based on the analysis above, there is a 13% difference between male and female who completed the offer of received offer and the females is higher than males. In addition, the favorite offer type for female (43.34%) and male (42.58%) is BOGO then Discount. So, I recommend Starbucks to provide offers for female due to the females’ income mean are 71306 and more than males which are 61194. Even though males purchaser are more than females and the Proportion of transaction for males (87.81%) is higher than females (77.5%). 
 
 The main findings of the code can be found at the post available [here](https://yagiz-dursun.medium.com/assessing-starbucks-app-data-c1b0955d03d9).
 
