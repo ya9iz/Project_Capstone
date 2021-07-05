@@ -21,12 +21,12 @@ Data Scientist Nanodegree
 ## Requirements
 There are several libraries we are going to use in this notebook:
 
-Sklearn
-Pandas
-Matplotlib
-Numpy
-Math
-Json
+* Sklearn
+* Pandas
+* Matplotlib
+* Numpy
+* Math
+* Json
 
 ## Introduction
 The Starbucks data set contains shows customer behavior on the Starbucks rewards mobile app. In this project, I try to provide a solution for how Starbucks should deal with customers, which promotions and to whom this promotions should be provided.
