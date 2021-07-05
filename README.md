@@ -1,6 +1,6 @@
 # Data-Scientist-Capstone-Project
 Data Scientist Nanodegree
-## Starbucks Capstone Challenge
+## Starbucks Capstone Project
 
 
 
