@@ -17,11 +17,11 @@ Data Scientist Nanodegree
 [Results](#results)
 
 ## Introduction
-This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. In this project, I will understand the data and try to provide a solution for how Starbucks should deal with customers, which promotions should provide and to whom? instead of providing offers for all customer which that make the customers who completed offers feel better and may push them to be customers for a long time.<br>
-I will combine transaction, demographic and offer data to determine which demographic groups respond best to which offer type.<br>
+The Starbucks data set contains shows customer behavior on the Starbucks rewards mobile app. In this project, I try to provide a solution for how Starbucks should deal with customers, which promotions and to whom this promotions should be provided.
+I will combine transaction, demographic and offer data to determine which demographic groups respond best to which offer type.
 
 ## Problem Statement
-The problem is Starbucks give each customer an offer, but there are some customers didn’t use the offer or didn’t view the offer and that is the problem. So I would like to make an analysis of Starbucks datasets to find which kind of people or their demography have an offer and they completed the offer. This segment of people should give them attention and send to them offers. Also, I would like to find which kind of offer (BOGO or Discount or Informational) do people more like or use more. The solution will reduce the overhead cost of sending offers to any customer. For that, I will accuracy metric to evaluate some supervised learning models.<br>
+The problem is that Starbucks gives each customer an offer, but there are some customers who didn’t use the offer or didn’t view the offer. So I would like to make an analysis to find out which kind of people or their demography gets an offer and thus complete the offer. Thus offers should be sent to these f people. Also, I would like to find out which kind of offers do people use more. The solution will reduce the overhead cost of sending offers to any customer. For that, I will evaluate some supervised learning models.
 
 ## Project Motivation
 In this project, I will analysis the datasets provided by answering these questions  which help to make a decision to solve the problem with visualizations and modeling the dataset:<br>
